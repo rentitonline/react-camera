@@ -6,8 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "15.6.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.8.6 || 17",
+    "react-dom": "^16.8.6 || 17",
     "throttle-debounce": "^1.0.1"
   },
   "devDependencies": {
